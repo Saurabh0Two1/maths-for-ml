@@ -165,3 +165,11 @@ print("vert_stack \n", vert_stack)
 horz_stack = np.hstack((a1, a2))
 print("horz_stack \n", horz_stack)
 
+# Vector vs matrix representations
+
+b1 = np.array([7, 1]) 
+b2 =  np.array([[7], [1]])
+
+
+print(f"Shape of b1 vactor: {b1.shape}")
+print(f"Shape of b2 matrix: {b2.shape}")
