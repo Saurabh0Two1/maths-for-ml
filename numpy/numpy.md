@@ -52,3 +52,18 @@ See solving-linear-equations.py for code
 1.2 - Solving Systems of Linear Equations using Matrices
 1.3 - Evaluating the Determinant of a Matrix
 1.4 - What happens if the system has no unique solution?
+
+# Vector Operations: Scalar Multiplication, Sum and Dot Product of Vectors
+
+## Topics [see vector-operations.py]
+
+1 - Scalar Multiplication
+2 - Sum of Vectors
+3 - Norm of a vector
+4 - Dot product
+
+### loop vs np.dot vs @
+
+loop version: 123.25286865234375 ms
+np.dot() function: 1.1188983917236328 ms
+@ function: 7.949590682983398 ms
