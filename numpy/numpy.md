@@ -67,3 +67,9 @@ See solving-linear-equations.py for code
 loop version: 123.25286865234375 ms
 np.dot() function: 1.1188983917236328 ms
 @ function: 7.949590682983398 ms
+
+# Matrix Multiplication
+
+## Topics [see 5-matrix-multiplication.py]
+
+1 - matrix multiplication in numpy and python
